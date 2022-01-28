@@ -1,165 +1,165 @@
-indicator,year,indicator_description,category
-aastud,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Percent of Students that are African American (non-Hispanic),Education and Youth
-abse,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019']",Percent of 1st-5th Grade Students that are Chronically Absent (Missing at least 20 days),Education and Youth
-abshs,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019']",Percent of 9th-12th Grade Students that are Chronically Absent (Missing at least 20 days),Education and Youth
-absmd,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019']",Percent of 6th-8th Grade Students that are Chronically Absent (Missing at least 20 days),Education and Youth
-affordm,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Affordability Index - Mortgage,Housing and Community Development
-affordr,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Affordability Index - Rent,Housing and Community Development
-age0-18_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-age18_,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 5-17 Years old,Census Demographics
-age24_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 18-24 Years old,Census Demographics
-age45-64_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-age5_,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population Under 5 Years old,Census Demographics
-age64_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 25-64 Years old,Census Demographics
-age65_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 65 Years and over,Census Demographics
-arrest,"['2014', '2015', '2016']","Number of Arrests per 1,000 Residents",Crime and Safety
-artevnt,"['2014', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Event Permits Requested per 1,000 Residents",Arts and Culture
-bahigher,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population (25 Years and over) with a Bachelor's Degree or Above,Workforce and Economic Development
-baltvac,"['2011', '2012', '2013', '2017', '2018', '2019', '2020']",Percentage of Vacant Properties Owned by Baltimore City,Housing and Community Development
-banks,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Number of Banks and Bank Branches per 1,000 Residents",Workforce and Economic Development
-birthwt,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Babies Born with a Satisfactory Birth Weight,Children and Family Health
-biz1_,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Businesses that are 1 Year old or less,Workforce and Economic Development
-biz2_,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Businesses that are 2 Years old or less,Workforce and Economic Development
-biz4_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Businesses that are 4 Years old or less,Workforce and Economic Development
-bkln,"['2012', '2020']",Number of Miles of Bike Lanes,Sustainability
-business_50-99_emp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-busload,"['2017', '2018']","Number of daily bus stop loadings per 1,000 residents",Sustainability
-caracc,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Automobile Accident Calls for Service per 1,000 Residents",Crime and Safety
-caslt,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Common Assault Calls for Service per 1,000 Residents",Crime and Safety
-clogged,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Rate of Clogged Storm Drain Reports per 1,000 Residents",Sustainability
-cmos,"['2011', '2014']",Number of Community Managed Open Spaces,Sustainability
-community_dev_corporations,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-community_gardens,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-comp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-compl,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",High School Completion Rate,Education and Youth
-comprop,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Total Number of Commercial Properties,Workforce and Economic Development
-constper,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Number of New Construction Permits per 1,000 Residential Properties",Housing and Community Development
-crehab,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Commercial Properties with Rehab Permits Above $5,000",Workforce and Economic Development
-crime,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Part 1 Crime Rate per 1,000 Residents",Crime and Safety
-dirtyst,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Rate of Dirty Streets and Alleys Reports per 1,000 Residents",Sustainability
-dom,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Median Number of Days on the Market,Housing and Community Development
-domvio,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012']","Domestic Violence Calls For Service per 1,000 Residents",Crime and Safety
-drop,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",High School Dropout/Withdrawl Rate,Education and Youth
-eattend,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Number of Students Ever Attended 1st - 5th Grade,Education and Youth
-ebll,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Children (aged 0-6) with Elevated Blood Lead Levels,Children and Family Health
-elheat,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Residences Heated by Electricity,Sustainability
-empl,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population 16-64 Employed,Workforce and Economic Development
-fam,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Households with Children Under 18,Census Demographics
-familiesrelatedkids,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-farms,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013']",Percentage of Students Receiving Free or Reduced Meals,Education and Youth
-fastfd,"['2011', '2013', '2018', '2019']","Fast Food Outlet Density (per 1,000 Residents)",Children and Family Health
-female,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Total Female Population,Census Demographics
-femhhs,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Female-Headed Households with Children Under 18,Census Demographics
-fore,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Properties Under Mortgage Foreclosure,Housing and Community Development
-gunhom,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Gun-Related Homicides per 1,000 Residents",Crime and Safety
-hazardous_waste_sites_count,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-hcvhouse,"['2014', '2015', '2016', '2017', '2018', '2019']","Rate of Housing Vouchers per 1,000 Rental Units",Housing and Community Development
-heatgas,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Residences Heated by Utility Gas,Sustainability
-hfai,"['2012', '2015']",Average Healthy Food Availability Index,Children and Family Health
-hh25inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning Less than $25,000",Census Demographics
-hh40inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning $25,000 to $40,000",Census Demographics
-hh60inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning $40,000 to $60,000",Census Demographics
-hh75inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning $60,000 to $75,000",Census Demographics
-hhchpov,"['2014', '2015', '2016', '2017', '2018', '2019']",Percent of Children Living Below the Poverty Line,Census Demographics
-hhm75,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning More than $75,000",Census Demographics
-hhpov,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Family Households Living Below the Poverty Line,Census Demographics
-hhs,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2019']",Total Number of Households,Census Demographics
-hhsize,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', 'uknown']",Average Household Size,Census Demographics
-historical_buildings,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-hs_degree_only_25plus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-hsaalg,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']",Percentage of Students Passing H.S.A. Algebra,Education and Youth
-hsabio,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']",Percentage of Students Passing H.S.A. Biology,Education and Youth
-hsaeng,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']",Percentage of Students Passing H.S.A. English ,Education and Youth
-hsagov,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2013', '2014']",Percentage of Students Passing H.S.A. Government,Education and Youth
-hsattend,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Number of Students Ever Attended 9th - 12th Grade,Education and Youth
-hsdipl,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Percent Population (25 Years and over) With High School Diploma and Some College or Associates Degree,Workforce and Economic Development
-hstud,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Percent of Students that are Hispanic,Education and Youth
-individuals_below_povline,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-juvarr,"['2011', '2012', '2013', '2014', '2015']","Juvenile Arrest Rate per 1,000 Juveniles",Crime and Safety
-juvdrug,"['2011', '2012', '2013', '2014', '2015']","Juvenile Arrest Rate for Drug-Related Offenses per 1,000 Juveniles",Crime and Safety
-juvviol,"['2011', '2012', '2013', '2014', '2015']","Juvenile Arrest Rate for Violent Offenses per 1,000 Juveniles",Crime and Safety
-kra,"['2016', '2017']",Kindergarten Readiness,Education and Youth
-leadtest,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Number of Children (aged 0-6) Tested for Elevated Blood Lead Levels,Children and Family Health
-lesshs,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population (25 Years and over) With Less Than a High School Diploma or GED,Workforce and Economic Development
-libcard,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Number of Persons with Library Cards per 1,000 Residents",Arts and Culture
-lifexp,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']",Life Expectancy,Children and Family Health
-liquor,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Liquor Outlet density (per 1,000 Residents)",Children and Family Health
-male,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Total Male Population,Census Demographics
-math3,"['2010', '2011', '2012', '2013', '2014']",Percentage of 3rd Grade Students Passing MSA Math,Education and Youth
-math5,"['2010', '2011', '2012', '2013', '2014']",Percentage of 5th Grade Students Passing MSA Math,Education and Youth
-math8,"['2010', '2011', '2012', '2013', '2014']",Percentage of 8th Grade Students Passing MSA Math,Education and Youth
-mattend,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Number of Students Ever Attended 6th - 8th Grade,Education and Youth
-mhhi,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Median Household Income,Census Demographics
-mort1_,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']",Infant Mortality Rate,Children and Family Health
-narc,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Narcotics Calls for Service per 1,000 Residents",Crime and Safety
-neighborhood-associations,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-nilf,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population 16-64 Not in Labor Force,Workforce and Economic Development
-nohhint,"['2017', '2018', '2019']",Percent of Households with No Internet at Home,Workforce and Economic Development
-non-car_commute,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-novhcl,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Households with No Vehicles Available,Sustainability
-numbus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Total Number of Businesses,Workforce and Economic Development
-othrcom,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']","Percent of Population Using Other Means to Commute to Work (Taxi, Motorcycle, Bicycle, Other)",Sustainability
-overd,"['2018', '2019', '2020']","Number of Overdose Calls for Service per 1,000 Residents",Children and Family Health
-ownroc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Housing Units that are Owner-Occupied,Housing and Community Development
-p2more,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - Two or More Races (Non-Hispanic),Census Demographics
-paa,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - Black/African-American (Non-Hispanic),Census Demographics
-palg1,"['2015', '2016', '2017']",Percentage of Students who Met or Exceeded PARCC Algebra I,Education and Youth
-palg2,"['2015', '2016', '2017']",Percentage of Students who Met or Exceeded PARCC Algebra II,Education and Youth
-park_enviro_groups,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-pasi,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - Asian (Non-Hispanic),Census Demographics
-pct18-25_registeredvote,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-pct18-25_voted,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-pct_small_business_4yrold,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-phisp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2018', '2019', '2020']",Percent of Residents - Hispanic,Census Demographics
-phsip,['2017'],,
-pmath3,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 3rd Grade Students who Met or Exceeded PARCC Math,Education and Youth
-pmath5,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 5th Grade Students who Met or Exceeded PARCC Math,Education and Youth
-pmath8,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 8th Grade Students who Met or Exceeded PARCC Math,Education and Youth
-pna,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-pother,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-ppac,"['2010', '2015', '2016', '2017', '2018', '2019', '2020']","Percent of Residents - All Other Races (Hawaiian/ Pacific Islander, Alaskan/ Native American Other Race) (Non-Hispanic)",Census Demographics
-ppacis,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-prbprl,['2013'],Percent of Adult Population on Parole/Probation,Workforce and Economic Development
-pread3,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 3rd Grade Students who Met or Exceeded PARCC Reading,Education and Youth
-pread5,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 5th Grade Students who Met or Exceeded PARCC Reading,Education and Youth
-pread8,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 8th Grade Students who Met or Exceeded PARCC Reading,Education and Youth
-prenatal,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Births Where the Mother Received Early Prenatal Care (First Trimester),Children and Family Health
-prop,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Property Crime Rate per 1,000 Residents",Crime and Safety
-publart,"['2015', '2016', '2017', '2018', '2019', '2020']",,
-pubtran,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Population that Uses Public Transportation to Get to Work,Sustainability
-pwhite,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - White/Caucasian (Non-Hispanic),Census Demographics
-racdiv,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Racial Diversity Index,Census Demographics
-read3,"['2010', '2011', '2012', '2013', '2014']",Percentage of 3rd Grade Students Passing MSA Reading,Education and Youth
-read5,"['2010', '2011', '2012', '2013', '2014']",Percentage of 5th Grade Students Passing MSA Reading,Education and Youth
-read8,"['2010', '2011', '2012', '2013', '2014']",Percentage of 8th Grade Students Passing MSA Reading,Education and Youth
-ready,"['2011', '2012', '2013']",Kindergarten School Readiness,Education and Youth
-registered-voters_voted,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-registered_voters_18plus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-regvote,"['2010', '2012', '2014', '2016', '2018']",Percent of Population (Over the age of 18) Who are Registered to Vote,Sustainability
-reosa,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Residential Sales in Foreclosure (REO),Housing and Community Development
-resrehab,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Percentage of Properties with Rehabilitation Permits Exceeding $5,000",Housing and Community Development
-salepr,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Median Price of Homes Sold,Housing and Community Development
-sclemp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percentage of Population aged 16-19 in School and/or Employed,Education and Youth
-sclsw,"['2011', '2012', '2013', '2014', '2015', '2016', '2019', '2020']",Percent of Students Switching Schools within School Year,Education and Youth
-shomes,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Number of Homes Sold,Housing and Community Development
-shoot,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Shootings per 1,000 Residents",Crime and Safety
-smlbus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Number of Businesses with Under 50 Employees,Workforce and Economic Development
-sped,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013']",Percentage of Students Enrolled in Special Education Programs,Education and Youth
-susp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013']",Percentage of Students Suspended or Expelled During School Year,Education and Youth
-tanf,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Families Receiving TANF,Children and Family Health
-teenbir,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Teen Pregnancy Rate per 1,000 Females (aged 15-19)",Children and Family Health
-termbir,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Births Delivered at Term (37-42 Weeks),Children and Family Health
-totalres,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Total Number of Residential Properties,Housing and Community Development
-totemp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Total Number of Employees,Workforce and Economic Development
-tpop,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2020']",Total Population,Census Demographics
-trees,"['2011', '2017']",Percent of Area Covered by Trees,Sustainability
-umbrella_nonprofits,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,
-unempl,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population 16-64 Unemployed and Looking for Work,Workforce and Economic Development
-unempr,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Unemployment Rate,Workforce and Economic Development
-vacant,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Residential Properties that are Vacant and Abandoned,Housing and Community Development
-vio,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Residential Properties with Housing Violations (Excluding Vacants),Housing and Community Development
-viol,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Violent Crime Rate per 1,000 Residents",Crime and Safety
-voted,"['2010', '2012', '2014', '2016', '2018']",Percent Population (Over the age of 18) Who Voted in the General Election,Sustainability
-walked,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Population that Walks to Work,Sustainability
-wlksc,"['2011', '2017']",Walk Score,Sustainability
-wstud,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Percent of Students that are White (non-Hispanic),Education and Youth
+indicator,year,indicator_description,category,count_years_available
+aastud,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Percent of Students that are African American (non-Hispanic),Education and Youth,21
+abse,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019']",Percent of 1st-5th Grade Students that are Chronically Absent (Missing at least 20 days),Education and Youth,20
+abshs,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019']",Percent of 9th-12th Grade Students that are Chronically Absent (Missing at least 20 days),Education and Youth,20
+absmd,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019']",Percent of 6th-8th Grade Students that are Chronically Absent (Missing at least 20 days),Education and Youth,20
+affordm,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Affordability Index - Mortgage,Housing and Community Development,21
+affordr,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Affordability Index - Rent,Housing and Community Development,21
+age0-18_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+age18_,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 5-17 Years old,Census Demographics,6
+age24_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 18-24 Years old,Census Demographics,17
+age45-64_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+age5_,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population Under 5 Years old,Census Demographics,6
+age64_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 25-64 Years old,Census Demographics,17
+age65_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Population 65 Years and over,Census Demographics,17
+arrest,"['2014', '2015', '2016']","Number of Arrests per 1,000 Residents",Crime and Safety,3
+artevnt,"['2014', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Event Permits Requested per 1,000 Residents",Arts and Culture,7
+bahigher,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population (25 Years and over) with a Bachelor's Degree or Above,Workforce and Economic Development,9
+baltvac,"['2011', '2012', '2013', '2017', '2018', '2019', '2020']",Percentage of Vacant Properties Owned by Baltimore City,Housing and Community Development,7
+banks,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Number of Banks and Bank Branches per 1,000 Residents",Workforce and Economic Development,9
+birthwt,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Babies Born with a Satisfactory Birth Weight,Children and Family Health,21
+biz1_,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Businesses that are 1 Year old or less,Workforce and Economic Development,10
+biz2_,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Businesses that are 2 Years old or less,Workforce and Economic Development,10
+biz4_,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Businesses that are 4 Years old or less,Workforce and Economic Development,21
+bkln,"['2012', '2020']",Number of Miles of Bike Lanes,Sustainability,2
+business_50-99_emp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+busload,"['2017', '2018']","Number of daily bus stop loadings per 1,000 residents",Sustainability,2
+caracc,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Automobile Accident Calls for Service per 1,000 Residents",Crime and Safety,8
+caslt,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Common Assault Calls for Service per 1,000 Residents",Crime and Safety,8
+clogged,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Rate of Clogged Storm Drain Reports per 1,000 Residents",Sustainability,22
+cmos,"['2011', '2014']",Number of Community Managed Open Spaces,Sustainability,2
+community_dev_corporations,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+community_gardens,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+comp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+compl,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",High School Completion Rate,Education and Youth,10
+comprop,"['2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Total Number of Commercial Properties,Workforce and Economic Development,10
+constper,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Number of New Construction Permits per 1,000 Residential Properties",Housing and Community Development,10
+crehab,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Commercial Properties with Rehab Permits Above $5,000",Workforce and Economic Development,21
+crime,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Part 1 Crime Rate per 1,000 Residents",Crime and Safety,22
+dirtyst,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Rate of Dirty Streets and Alleys Reports per 1,000 Residents",Sustainability,22
+dom,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Median Number of Days on the Market,Housing and Community Development,22
+domvio,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012']","Domestic Violence Calls For Service per 1,000 Residents",Crime and Safety,14
+drop,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",High School Dropout/Withdrawl Rate,Education and Youth,21
+eattend,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Number of Students Ever Attended 1st - 5th Grade,Education and Youth,12
+ebll,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Children (aged 0-6) with Elevated Blood Lead Levels,Children and Family Health,21
+elheat,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Residences Heated by Electricity,Sustainability,9
+empl,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population 16-64 Employed,Workforce and Economic Development,21
+fam,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Households with Children Under 18,Census Demographics,6
+familiesrelatedkids,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+farms,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013']",Percentage of Students Receiving Free or Reduced Meals,Education and Youth,15
+fastfd,"['2011', '2013', '2018', '2019']","Fast Food Outlet Density (per 1,000 Residents)",Children and Family Health,4
+female,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Total Female Population,Census Demographics,12
+femhhs,"['2010', '2015', '2016', '2017', '2018', '2019']",Percent of Female-Headed Households with Children Under 18,Census Demographics,6
+fore,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Properties Under Mortgage Foreclosure,Housing and Community Development,22
+gunhom,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Gun-Related Homicides per 1,000 Residents",Crime and Safety,10
+hazardous_waste_sites_count,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+hcvhouse,"['2014', '2015', '2016', '2017', '2018', '2019']","Rate of Housing Vouchers per 1,000 Rental Units",Housing and Community Development,6
+heatgas,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Residences Heated by Utility Gas,Sustainability,9
+hfai,"['2012', '2015']",Average Healthy Food Availability Index,Children and Family Health,2
+hh25inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning Less than $25,000",Census Demographics,21
+hh40inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning $25,000 to $40,000",Census Demographics,21
+hh60inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning $40,000 to $60,000",Census Demographics,21
+hh75inc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning $60,000 to $75,000",Census Demographics,21
+hhchpov,"['2014', '2015', '2016', '2017', '2018', '2019']",Percent of Children Living Below the Poverty Line,Census Demographics,6
+hhm75,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Percent of Households Earning More than $75,000",Census Demographics,21
+hhpov,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Percent of Family Households Living Below the Poverty Line,Census Demographics,17
+hhs,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2019']",Total Number of Households,Census Demographics,13
+hhsize,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Average Household Size,Census Demographics,12
+historical_buildings,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+hs_degree_only_25plus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+hsaalg,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']",Percentage of Students Passing H.S.A. Algebra,Education and Youth,16
+hsabio,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']",Percentage of Students Passing H.S.A. Biology,Education and Youth,16
+hsaeng,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014']",Percentage of Students Passing H.S.A. English ,Education and Youth,16
+hsagov,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2013', '2014']",Percentage of Students Passing H.S.A. Government,Education and Youth,15
+hsattend,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Number of Students Ever Attended 9th - 12th Grade,Education and Youth,21
+hsdipl,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Percent Population (25 Years and over) With High School Diploma and Some College or Associates Degree,Workforce and Economic Development,12
+hstud,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Percent of Students that are Hispanic,Education and Youth,21
+individuals_below_povline,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+juvarr,"['2011', '2012', '2013', '2014', '2015']","Juvenile Arrest Rate per 1,000 Juveniles",Crime and Safety,5
+juvdrug,"['2011', '2012', '2013', '2014', '2015']","Juvenile Arrest Rate for Drug-Related Offenses per 1,000 Juveniles",Crime and Safety,5
+juvviol,"['2011', '2012', '2013', '2014', '2015']","Juvenile Arrest Rate for Violent Offenses per 1,000 Juveniles",Crime and Safety,5
+kra,"['2016', '2017']",Kindergarten Readiness,Education and Youth,2
+leadtest,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Number of Children (aged 0-6) Tested for Elevated Blood Lead Levels,Children and Family Health,12
+lesshs,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population (25 Years and over) With Less Than a High School Diploma or GED,Workforce and Economic Development,9
+libcard,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Number of Persons with Library Cards per 1,000 Residents",Arts and Culture,9
+lifexp,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']",Life Expectancy,Children and Family Health,8
+liquor,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Liquor Outlet density (per 1,000 Residents)",Children and Family Health,9
+male,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Total Male Population,Census Demographics,12
+math3,"['2010', '2011', '2012', '2013', '2014']",Percentage of 3rd Grade Students Passing MSA Math,Education and Youth,5
+math5,"['2010', '2011', '2012', '2013', '2014']",Percentage of 5th Grade Students Passing MSA Math,Education and Youth,5
+math8,"['2010', '2011', '2012', '2013', '2014']",Percentage of 8th Grade Students Passing MSA Math,Education and Youth,5
+mattend,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Number of Students Ever Attended 6th - 8th Grade,Education and Youth,12
+mhhi,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Median Household Income,Census Demographics,21
+mort1_,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018']",Infant Mortality Rate,Children and Family Health,8
+narc,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Narcotics Calls for Service per 1,000 Residents",Crime and Safety,8
+neighborhood-associations,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+nilf,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population 16-64 Not in Labor Force,Workforce and Economic Development,21
+nohhint,"['2017', '2018', '2019']",Percent of Households with No Internet at Home,Workforce and Economic Development,3
+non-car_commute,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+novhcl,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Households with No Vehicles Available,Sustainability,9
+numbus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Total Number of Businesses,Workforce and Economic Development,21
+othrcom,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']","Percent of Population Using Other Means to Commute to Work (Taxi, Motorcycle, Bicycle, Other)",Sustainability,12
+overd,"['2018', '2019', '2020']","Number of Overdose Calls for Service per 1,000 Residents",Children and Family Health,3
+ownroc,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Housing Units that are Owner-Occupied,Housing and Community Development,22
+p2more,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - Two or More Races (Non-Hispanic),Census Demographics,18
+paa,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - Black/African-American (Non-Hispanic),Census Demographics,18
+palg1,"['2015', '2016', '2017']",Percentage of Students who Met or Exceeded PARCC Algebra I,Education and Youth,3
+palg2,"['2015', '2016', '2017']",Percentage of Students who Met or Exceeded PARCC Algebra II,Education and Youth,3
+park_enviro_groups,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+pasi,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - Asian (Non-Hispanic),Census Demographics,18
+pct18-25_registeredvote,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+pct18-25_voted,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+pct_small_business_4yrold,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+phisp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2018', '2019', '2020']",Percent of Residents - Hispanic,Census Demographics,17
+phsip,['2017'],,,1
+pmath3,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 3rd Grade Students who Met or Exceeded PARCC Math,Education and Youth,15
+pmath5,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 5th Grade Students who Met or Exceeded PARCC Math,Education and Youth,15
+pmath8,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 8th Grade Students who Met or Exceeded PARCC Math,Education and Youth,15
+pna,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+pother,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+ppac,"['2010', '2015', '2016', '2017', '2018', '2019', '2020']","Percent of Residents - All Other Races (Hawaiian/ Pacific Islander, Alaskan/ Native American Other Race) (Non-Hispanic)",Census Demographics,7
+ppacis,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+prbprl,['2013'],Percent of Adult Population on Parole/Probation,Workforce and Economic Development,1
+pread3,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 3rd Grade Students who Met or Exceeded PARCC Reading,Education and Youth,15
+pread5,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 5th Grade Students who Met or Exceeded PARCC Reading,Education and Youth,15
+pread8,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017']",Percentage of 8th Grade Students who Met or Exceeded PARCC Reading,Education and Youth,15
+prenatal,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Births Where the Mother Received Early Prenatal Care (First Trimester),Children and Family Health,21
+prop,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Property Crime Rate per 1,000 Residents",Crime and Safety,10
+publart,"['2015', '2016', '2017', '2018', '2019', '2020']",,,6
+pubtran,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Population that Uses Public Transportation to Get to Work,Sustainability,21
+pwhite,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019', '2020']",Percent of Residents - White/Caucasian (Non-Hispanic),Census Demographics,18
+racdiv,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2015', '2016', '2017', '2018', '2019']",Racial Diversity Index,Census Demographics,17
+read3,"['2010', '2011', '2012', '2013', '2014']",Percentage of 3rd Grade Students Passing MSA Reading,Education and Youth,5
+read5,"['2010', '2011', '2012', '2013', '2014']",Percentage of 5th Grade Students Passing MSA Reading,Education and Youth,5
+read8,"['2010', '2011', '2012', '2013', '2014']",Percentage of 8th Grade Students Passing MSA Reading,Education and Youth,5
+ready,"['2011', '2012', '2013']",Kindergarten School Readiness,Education and Youth,3
+registered-voters_voted,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+registered_voters_18plus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+regvote,"['2010', '2012', '2014', '2016', '2018']",Percent of Population (Over the age of 18) Who are Registered to Vote,Sustainability,5
+reosa,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Residential Sales in Foreclosure (REO),Housing and Community Development,10
+resrehab,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Percentage of Properties with Rehabilitation Permits Exceeding $5,000",Housing and Community Development,22
+salepr,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Median Price of Homes Sold,Housing and Community Development,21
+sclemp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percentage of Population aged 16-19 in School and/or Employed,Education and Youth,21
+sclsw,"['2011', '2012', '2013', '2014', '2015', '2016', '2019', '2020']",Percent of Students Switching Schools within School Year,Education and Youth,8
+shomes,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Number of Homes Sold,Housing and Community Development,21
+shoot,"['2011', '2012', '2015', '2016', '2017', '2018', '2019', '2020']","Number of Shootings per 1,000 Residents",Crime and Safety,8
+smlbus,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Number of Businesses with Under 50 Employees,Workforce and Economic Development,21
+sped,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013']",Percentage of Students Enrolled in Special Education Programs,Education and Youth,15
+susp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013']",Percentage of Students Suspended or Expelled During School Year,Education and Youth,15
+tanf,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Families Receiving TANF,Children and Family Health,9
+teenbir,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']","Teen Pregnancy Rate per 1,000 Females (aged 15-19)",Children and Family Health,21
+termbir,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Births Delivered at Term (37-42 Weeks),Children and Family Health,21
+totalres,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Total Number of Residential Properties,Housing and Community Development,22
+totemp,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",Total Number of Employees,Workforce and Economic Development,12
+tpop,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2020']",Total Population,Census Demographics,13
+trees,"['2011', '2017']",Percent of Area Covered by Trees,Sustainability,2
+umbrella_nonprofits,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010']",,,12
+unempl,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent Population 16-64 Unemployed and Looking for Work,Workforce and Economic Development,21
+unempr,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Unemployment Rate,Workforce and Economic Development,21
+vacant,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Residential Properties that are Vacant and Abandoned,Housing and Community Development,22
+vio,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2015', '2016', '2017', '2018', '2019', '2020']",Percentage of Residential Properties with Housing Violations (Excluding Vacants),Housing and Community Development,21
+viol,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020']","Violent Crime Rate per 1,000 Residents",Crime and Safety,22
+voted,"['2010', '2012', '2014', '2016', '2018']",Percent Population (Over the age of 18) Who Voted in the General Election,Sustainability,5
+walked,"['2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019']",Percent of Population that Walks to Work,Sustainability,9
+wlksc,"['2011', '2017']",Walk Score,Sustainability,2
+wstud,"['2000', '2001', '2002', '2003', '2004', '2005', '2006', '2006 - 2010', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2019', '2020']",Percent of Students that are White (non-Hispanic),Education and Youth,21
